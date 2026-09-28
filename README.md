@@ -4,11 +4,17 @@ Welcome to the **AnkerGames Community**.
 
 This repository is a community resource for people interested in PC gaming, game discovery, gaming resources, and the features available on AnkerGames.
 
-## About AnkerGames
+## About This Repository
 
-[AnkerGames](https://ankergames.net) is a PC gaming platform built around an organized game library and tools that make it easier to discover, browse, and explore games.
+This repository is a **fan-created and community-maintained project** dedicated to AnkerGames and PC gaming.
 
-Instead of relying on a single way to browse a large collection, AnkerGames provides multiple discovery options, including game search, genre browsing, developers and publishers, collections, trending games, recently updated games, and other community-oriented features.
+It is **not affiliated with, operated by, sponsored by, or officially endorsed by AnkerGames**. The repository is maintained independently by members of the community for informational, educational, and resource-sharing purposes.
+
+Any references to AnkerGames, its features, or its website are provided for informational context. AnkerGames remains the property of its respective owner.
+
+For official information about AnkerGames, please visit:
+
+**https://ankergames.net**
 
 ## What This Repository Contains
 
