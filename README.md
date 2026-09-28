@@ -27,7 +27,7 @@ This space may include:
 
 Visit the main website:
 
-** [AnkerGames](https://ankergames.net)**
+**[AnkerGames](https://ankergames.net)**
 
 You can explore the game library, discover games, browse different categories, and learn more about the platform and its features.
 
@@ -41,5 +41,3 @@ It is **not an official AnkerGames support channel**. For official information a
 
 **AnkerGames Community**
 PC Gaming • Game Discovery • Gaming Resources
-
-[Visit AnkerGames →](https://ankergames.net)
