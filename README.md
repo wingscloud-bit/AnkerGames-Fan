@@ -58,17 +58,13 @@ Suggestions, corrections, and improvements are welcome.
 
 If you find inaccurate information in the documentation, open an Issue with details about the problem. Community members can also suggest additional resources or improvements to the repository.
 
-## Visit AnkerGames
+---
 
-For the current game library and platform features:
+## Fan Project Disclaimer
 
-**https://ankergames.net**
+This is an **independent fan/community project** and is not an official AnkerGames repository. It is not affiliated with, sponsored by, or endorsed by AnkerGames.
 
-## Disclaimer
-
-This repository is maintained as a community resource and is not an official AnkerGames support channel.
-
-Information about the website and its features may change over time. For the latest information, refer to the AnkerGames website.
+For official information, visit **https://ankergames.net**.
 
 ---
 
